@@ -1,0 +1,31 @@
+{
+    "SiteNameOverride": null,
+    "WelcomeModalTitleOverride": null,
+    "WelcomeModalBodyOverride": null,
+    "WelcomeModalLocalStorageKey": "no-welcome-modal",
+    "ChatSound": "//computernewb.com/collab-vm/notify.ogg",
+    "ServerAddresses": [
+      "computernewb.com/collab-vm/vm0",
+      "computernewb.com/collab-vm/vm1",
+      "computernewb.com/collab-vm/vm2",
+      "computernewb.com/collab-vm/vm3",
+      "computernewb.com/collab-vm/vm4",
+      "computernewb.com/collab-vm/vm5",
+      "computernewb.com/collab-vm/vm6",
+      "computernewb.com/collab-vm/vm7",
+      "computernewb.com/collab-vm/vm8",
+      "computernewb.com/collab-vm/vm9"
+    ],
+    "ServerAddressesListURI": null,
+    "NSFWVMs": [
+      "vm0b0t"
+    ],
+    "RawMessages": {
+      "VMTitles": true,
+      "Messages": true
+    },
+    "Auth": {
+      "Enabled": true,
+      "APIEndpoint": "https://auth.collabvm.org"
+    }
+  }
